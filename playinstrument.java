@@ -6,8 +6,7 @@ public class playinstrument {
 
 
         a.setType("Guitar");
-        a.setPrice(1
-        01.5);
+        a.setPrice(101.5);
 
         b.setType("Piano");
         b.setPrice(200.0);
